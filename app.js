@@ -1,10 +1,10 @@
 const firebaseConfig = {
-    apiKey: "YOUR_API_KEY",
-    authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-    projectId: "YOUR_PROJECT_ID",
-    storageBucket: "YOUR_PROJECT_ID.appspot.com",
-    messagingSenderId: "YOUR_ID",
-    appId: "YOUR_ID"
+    apiKey: "AIzaSyAPAGTMJ_G7gsQVwp_wZz3Hq0EoMNDDeJ8",
+    authDomain: "antreanklinik1.firebaseapp.com",
+    projectId: "antreanklinik1",
+    storageBucket: "antreanklinik1.firebasestorage.app",
+    messagingSenderId: "243781732589",
+    appId: "1:243781732589:web:79e3f7ff1c0ca00044e4e4"
 };
 
 firebase.initializeApp(firebaseConfig);
